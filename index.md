@@ -3,7 +3,7 @@
 ### Hosted with [AbjadNLP(2026)](https://wp.lancs.ac.uk/abjad/) at EACL 2026, Rabat, Morocco
 
 ## 1. Overview of the Shared Task
-**AbjadStyleTransfer** focuses on **Authorship Style Transfer (Text Generation)** for languages that use the Arabic script, including **Modern Standard Arabic, Urdu, Persian, and Kurdish**. The goal is to transform a formal input text into the style of a specified author while preserving semantics, with a strict focus on **literature**.
+**AbjadStyleTransfer** focuses on **Authorship Style Transfer (Text Generation)** for languages that use the Arabic script, including **Modern Standard Arabic and Urdu**. The goal is to transform a formal input text into the style of a specified author while preserving semantics, with a strict focus on **literature**.
 
 Unlike general text style analysis, Authorship Style Transfer (AST) aims to actively modify text to conform to a distinctive writing style. This shared task seeks to promote research in AST for Arabic-script languages, an area that remains relatively underdeveloped.
 
