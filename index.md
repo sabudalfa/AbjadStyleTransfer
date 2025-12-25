@@ -19,29 +19,6 @@ The dataset focuses on literature from prominent authors in the target languages
 - **Task**: Transform formal text into the style of these authors.
 
 ### Dataset Statistics (Example for MSA)
-| Id | Author                  | Train | Test | Val |
-|----|-------------------------|------:|-----:|----:|
-|(1) | Ahmed Amin              | 2892  | 594  | 246 |
-|(2) | Ahmed Taymour Pasha     |  804  | 142  |  53 |
-|(3) | Ahmed Shawqi            |  596  |  46  |  58 |
-|(4) | Ameen Rihani            | 1557  | 624  | 142 |
-|(5) | Tharwat Abaza           |  755  | 191  |  90 |
-|(6) | Gibran Khalil Gibran    |  748  | 240  |  30 |
-|(7) | Jurji Zaydan            | 2762  | 562  | 326 |
-|(8) | Hassan Hanafi           | 3735  |1002  | 548 |
-|(9) | Robert Barr             | 2680  | 512  |  82 |
-|(10)| Salama Moussa           |  984  | 282  | 119 |
-|(11)| Taha Hussein            | 2371  | 534  | 253 |
-|(12)| Abbas M. Al-Aqqad       | 1820  | 499  | 267 |
-|(13)| Abdel Ghaffar Makawi    | 1520  | 464  | 396 |
-|(14)| Gustave Le Bon          | 1515  | 358  | 150 |
-|(15)| Fouad Zakaria           | 1771  | 294  | 125 |
-|(16)| Kamel Kilani            |  399  | 109  |  25 |
-|(17)| Mohamed H. Heikal       | 2627  | 492  | 260 |
-|(18)| Naguib Mahfouz          | 1630  | 343  | 327 |
-|(19)| Nawal El Saadawi        | 1415  | 382  | 295 |
-|(20)| William Shakespeare     | 1236  | 358  | 238 |
-|(21)| Yusuf Idris             | 1140  | 349  | 120 |
 
 ## 4. Task Description
 ### AbjadStyleTransfer
